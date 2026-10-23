@@ -1,0 +1,18 @@
+# Build output
+target/
+bin/
+
+
+# Your real database password - never upload this
+src/main/resources/db.properties
+
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+
+# OS files
+.DS_Store
+Thumbs.db
