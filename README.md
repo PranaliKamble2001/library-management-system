@@ -143,4 +143,4 @@ java -jar target/library-management-system.jar
 ## Author
 
 Pranali Kamble
-[GitHub] (https://github.com/PranaliKamble2001)
+[GitHub](https://github.com/PranaliKamble2001)
